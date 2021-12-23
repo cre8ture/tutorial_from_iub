@@ -5,7 +5,7 @@ import InputTodo from "./InputTodo";
 import { v4 as uuidv4 } from "uuid";
 import "./App.css";
 import Navbar from "./Navbar"
-// import { Route, Switch } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 // import About from "../../pages/About";
 // import NotMatch from "../../pages/NotMatch";
 
