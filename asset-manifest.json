@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/tutorial_from_iub/static/css/main.fab6c1db.css",
-    "main.js": "/tutorial_from_iub/static/js/main.55de354f.js",
-    "index.html": "/tutorial_from_iub/index.html",
-    "main.fab6c1db.css.map": "/tutorial_from_iub/static/css/main.fab6c1db.css.map",
-    "main.55de354f.js.map": "/tutorial_from_iub/static/js/main.55de354f.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.fab6c1db.css",
-    "static/js/main.55de354f.js"
-  ]
+  "main.css": "/tutorial_from_iub/static/css/main.d6bbd77d.chunk.css",
+  "main.js": "/tutorial_from_iub/static/js/main.8ce3b3c1.chunk.js",
+  "main.js.map": "/tutorial_from_iub/static/js/main.8ce3b3c1.chunk.js.map",
+  "runtime~main.js": "/tutorial_from_iub/static/js/runtime~main.b77139f5.js",
+  "runtime~main.js.map": "/tutorial_from_iub/static/js/runtime~main.b77139f5.js.map",
+  "static/js/2.e4b50371.chunk.js": "/tutorial_from_iub/static/js/2.e4b50371.chunk.js",
+  "static/js/2.e4b50371.chunk.js.map": "/tutorial_from_iub/static/js/2.e4b50371.chunk.js.map",
+  "index.html": "/tutorial_from_iub/index.html",
+  "precache-manifest.484bf6a7485c22966ff7586c0c7bd041.js": "/tutorial_from_iub/precache-manifest.484bf6a7485c22966ff7586c0c7bd041.js",
+  "service-worker.js": "/tutorial_from_iub/service-worker.js",
+  "static/css/main.d6bbd77d.chunk.css.map": "/tutorial_from_iub/static/css/main.d6bbd77d.chunk.css.map"
 }
