@@ -1,26 +1,30 @@
 import React from "react"
 import { useMatch  } from "react-router-dom"
-import { Link, Route } from "react-router-dom"
+import { Link, Route, Routes } from "react-router-dom"
 import SinglePage from "./SinglePage"
+import Navbar from '../functionBased/components/Navbar'
+//stylesheet
+import "../functionBased/App.css";
 
 const About = () => {
-  const { url, path } = useMatch()
-  console.log('url: ', url); 
-  console.log('path: ', path)
-  console.log("hello usematch!", useMatch())
   return (
     <div>
-      <ul>
+         <Navbar />
+    <div className="about__content">
+  
+      <ul className="about__list">
         <li>
-          <Link to={`${url}/about-app`}>About App</Link>
+          <Link to="about-app">About App</Link>
         </li>
         <li>
-          <Link to={`${url}/about-author`}>About Author</Link>
+          <Link to="about-author">About Author</Link>
         </li>
       </ul>
-      <Route path={`${path}/:slug`}>
-        <SinglePage />
-      </Route>
+
+      <Routes>
+      <Route path=":slug" element={<SinglePage />}/>
+      </Routes>
+    </div>
     </div>
   )
 }
