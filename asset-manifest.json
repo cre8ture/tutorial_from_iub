@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cre8ture/tutorial_from_iub.git/static/css/main.fab6c1db.css",
-    "main.js": "/cre8ture/tutorial_from_iub.git/static/js/main.55de354f.js",
-    "index.html": "/cre8ture/tutorial_from_iub.git/index.html",
-    "main.fab6c1db.css.map": "/cre8ture/tutorial_from_iub.git/static/css/main.fab6c1db.css.map",
-    "main.55de354f.js.map": "/cre8ture/tutorial_from_iub.git/static/js/main.55de354f.js.map"
+    "main.css": "/cre8ture/tutorial_from_iub/static/css/main.fab6c1db.css",
+    "main.js": "/cre8ture/tutorial_from_iub/static/js/main.55de354f.js",
+    "index.html": "/cre8ture/tutorial_from_iub/index.html",
+    "main.fab6c1db.css.map": "/cre8ture/tutorial_from_iub/static/css/main.fab6c1db.css.map",
+    "main.55de354f.js.map": "/cre8ture/tutorial_from_iub/static/js/main.55de354f.js.map"
   },
   "entrypoints": [
     "static/css/main.fab6c1db.css",
